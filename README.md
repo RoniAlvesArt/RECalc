@@ -5,9 +5,11 @@
 <p>Desenvolver uma calculadora de preços interativa e fácil de usar para o site, permitindo que os clientes potenciais calculem o custo estimado dos serviços oferecidos.</p>
 
 <h3>Requisitos:</h3>
-<p>A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.
-Utilize a paleta de cores e fontes compatíveis para garantir consistência visual.
-A calculadora deve ser facilmente integrável ao site, utilizando tecnologias como HTML, CSS, JavaScript e PHP (vamos ter uma base).
+<ol>
+<li>A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.</li>
+<li>Utilize a paleta de cores e fontes compatíveis para garantir consistência visual.</li>
+<li>A calculadora deve ser facilmente integrável ao site, utilizando tecnologias como HTML, CSS, JavaScript e PHP (vamos ter uma base).</li>
+</ol>
 
 <h3>Parâmetros e cálculos:</h3>
 <p>A calculadora deve considerar parâmetros e fórmulas para determinar o preço final que serão passados de acordo com o roteiro definido para cada equipe.
