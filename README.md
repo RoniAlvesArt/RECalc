@@ -2,26 +2,26 @@
 <p>Calculadora de preços e serviços para uma produtora</p>
 
 <h2>Objetivo:</h2>
-<p> Desenvolver uma calculadora de preços interativa e fácil de usar para o site, permitindo que os clientes potenciais calculem o custo estimado dos serviços oferecidos.</p>
+<p>Desenvolver uma calculadora de preços interativa e fácil de usar para o site, permitindo que os clientes potenciais calculem o custo estimado dos serviços oferecidos.</p>
 
-Requisitos: 
+<h3>Requisitos:</h3>
 A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.
 Utilize a paleta de cores e fontes compatíveis para garantir consistência visual.
 A calculadora deve ser facilmente integrável ao site, utilizando tecnologias como HTML, CSS, JavaScript e PHP (vamos ter uma base).
 
-Parâmetros e cálculos: 
+<h3>Parâmetros e cálculos:</h3>
 A calculadora deve considerar parâmetros e fórmulas para determinar o preço final que serão passados de acordo com o roteiro definido para cada equipe.
 
-Entregáveis:
+<h3>Entregáveis:</h3>
 Um arquivo de código-fonte contendo o HTML, CSS e JavaScript necessários para implementar a calculadora no nosso site.
 Instruções detalhadas sobre como integrar a calculadora ao nosso site (documentação).
 Suporte e assistência durante o processo de integração e teste.
 
-Prazo:
+<h3>Prazo:</h3>
 A calculadora deve ser desenvolvida e entregue em um prazo de 3 semanas a partir da data de aprovação deste briefing.
 
 
-MÓDULO I - Fotografia Publicitária
+<h2>MÓDULO I - Fotografia Publicitária</h2>
 Calculadora para serviço de fotografia publicitária, considerando as horas de cobertura e os diferentes tipos de sessões:
 
 Defina os preços base por hora para cada tipo de sessão:
