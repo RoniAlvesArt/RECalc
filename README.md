@@ -1,11 +1,8 @@
-# RECalc
-Calculadora para uma produtora
+<h1>RECalc</h1>
+<p>Calculadora de preços e serviços para uma produtora</p>
 
-
-Calculadora de Preços
-para serviços de uma produtora
-
-Objetivo: Desenvolver uma calculadora de preços interativa e fácil de usar para o site, permitindo que os clientes potenciais calculem o custo estimado dos serviços oferecidos.
+<h2>Objetivo:</h2>
+<p> Desenvolver uma calculadora de preços interativa e fácil de usar para o site, permitindo que os clientes potenciais calculem o custo estimado dos serviços oferecidos.</p>
 
 Requisitos: 
 A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.
