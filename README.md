@@ -54,19 +54,20 @@
 
 <p>Exemplo: Se um cliente deseja reservar uma sessão de fotografia publicitária com 2 horas de cobertura de evento ($100 por hora), 1 hora de sessão fotográfica externa ($150 por hora) e 3 horas de sessão fotográfica em estúdio ($200 por hora), o preço final seria calculado da seguinte maneira:</p>
 
-
+<ol>
   <li>Custo total para evento: 2 * $100 = $200</li>
 <li>Custo total para sessão fotográfica externa: 1 * $150 = $150</li>
 <li>Custo total para sessão fotográfica em estúdio: 3 * $200 = $600</li>
   </ol>
-<ul>
+</ul>
 <p>Preço final = $200 + $150 + $600 = $950</p>
 
 <p>As funções devem permitir ajustes nos valores, sem causar erros no código, ou seja, trate cada valor como uma variável e divida o código em funções simplificadas.</p>
-  <ol>
+ </ol>
 <h2>SPRINT_01</h2>
 
-<ul><li>Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);</li>
+<ul>
+  <li>Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);</li>
   <br>
 <li>Estabelecer as variáveis que influenciam o preço (horas de trabalho, tipo de serviço, número de câmeras, diária do profissional, hora do profissional, prazo, duração, etc.)</li>
   <br>
