@@ -59,11 +59,12 @@
 <li>Custo total para sessão fotográfica externa: 1 * $150 = $150</li>
 <li>Custo total para sessão fotográfica em estúdio: 3 * $200 = $600</li>
   </ol>
-</ul>
+
 <p>Preço final = $200 + $150 + $600 = $950</p>
 
 <p>As funções devem permitir ajustes nos valores, sem causar erros no código, ou seja, trate cada valor como uma variável e divida o código em funções simplificadas.</p>
  </ol>
+ </ul>
 <h2>SPRINT_01</h2>
 
 <ul>
