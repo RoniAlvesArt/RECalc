@@ -59,9 +59,11 @@ As funções devem permitir ajustes nos valores, sem causar erros no código, ou
 SPRINT_01
 
 <ul><li>Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);</li>
+  <br>
 <li>Estabelecer as variáveis que influenciam o preço (horas de trabalho, tipo de serviço, número de câmeras, diária do profissional, hora do profissional, prazo, duração, etc.)</li>
+  <br>
 <li>Criar a lógica de programação para cada funcionalidade de forma individual, por funções;
-  desenvolvimento na linguagem definida.</li>
-  </ul>
+desenvolvimento na linguagem definida.</li>
+</ul>
 
 
