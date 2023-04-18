@@ -1,32 +1,41 @@
-export function custosFixos(
-    aluguel_espaco,
-    manutencao,
-    energia,
-    internet,
-){
+export function custosFixos(){
+    //custos fixos
+    let aluguel_espaco = 700;
+    let manutencao = 200;
+    let energia = 300;
+    let internet = 100;
+
     return (
             aluguel_espaco + manutencao + energia + internet
             );
 }
 
-export function custosPontuais(
-    deslocamento,
-    hospedagem,
-    alimentação,
-    locacao,
-    licencas
-    
-){
+export function custosPontuais(){
+
+    //custos pontuais
+    let deslocamento =70;
+    let hospedagem = 0;
+    let alimentacao = 10;
+    let locacao = 0;
+    let licencas = 0;
+
     return (
-           deslocamento + hospedagem + alimentação + locacao + licencas 
+           deslocamento + hospedagem + alimentacao + locacao + licencas 
     );
 }
 
 
-export function custosEdicao(
-    salario_editor,
-    tempo_edicao,
-){ 
+export function custosEdicao(){ 
+    //custos da edição e produção
+    let salario_fotografo = 1800;
+    let salario_filmmaker =- 3500;
+    let salario_editor = 2500;
+    let salario_auxiliares = 1200;
+    let salario_administracao = 3000;
+
+    let tempo_edicao = 24;
+    let tempo_producao = 4;
+
     let diaria = 8;
     //horas trabalhadas no dia, CLT
 
