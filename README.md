@@ -35,25 +35,26 @@
 <li>b. Sessão fotográfica externa (natureza): $Y por hora</li>
 <li>c. Sessão fotográfica em estúdio: $Z por hora</li>
 </ol>
-<p>Determine o número de horas de cobertura necessárias para cada tipo de sessão:</p>
+  <li><p>Determine o número de horas de cobertura necessárias para cada tipo de sessão:</p></li>
 <ol>
 <li>a. Horas de cobertura de evento: H_e</li>
 <li>b. Horas de cobertura de sessão fotográfica externa: H_n</li>
 <li>c. Horas de cobertura de sessão fotográfica em estúdio: H_s</li>
 </ol>
-<p>Calcule o custo total para cada tipo de sessão:</p>
+  <li><p>Calcule o custo total para cada tipo de sessão:</p></li>
 <ol>
 <li>a. Custo total para evento: C_e = X * H_e</li>
 <li>b. Custo total para sessão fotográfica externa: C_n = Y * H_n</li>
 <li>c. Custo total para sessão fotográfica em estúdio: C_s = Z * H_s</li>
 </ol>
-<p>Calcule o preço final somando os custos totais de cada tipo de sessão:</p>
+  
+  <li><p>Calcule o preço final somando os custos totais de cada tipo de sessão:</p></li>
 
 <p><b>Preço final = C_e + C_n + C_s</b><p>
 
 <p>Exemplo: Se um cliente deseja reservar uma sessão de fotografia publicitária com 2 horas de cobertura de evento ($100 por hora), 1 hora de sessão fotográfica externa ($150 por hora) e 3 horas de sessão fotográfica em estúdio ($200 por hora), o preço final seria calculado da seguinte maneira:</p>
 
-<ol>
+
   <li>Custo total para evento: 2 * $100 = $200</li>
 <li>Custo total para sessão fotográfica externa: 1 * $150 = $150</li>
 <li>Custo total para sessão fotográfica em estúdio: 3 * $200 = $600</li>
@@ -62,6 +63,7 @@
 <p>Preço final = $200 + $150 + $600 = $950</p>
 
 <p>As funções devem permitir ajustes nos valores, sem causar erros no código, ou seja, trate cada valor como uma variável e divida o código em funções simplificadas.</p>
+  <ol>
 <h2>SPRINT_01</h2>
 
 <ul><li>Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);</li>
