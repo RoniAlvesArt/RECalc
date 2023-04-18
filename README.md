@@ -12,51 +12,53 @@
 </ol>
 
 <h3>Parâmetros e cálculos:</h3>
-<p>A calculadora deve considerar parâmetros e fórmulas para determinar o preço final que serão passados de acordo com o roteiro definido para cada equipe.
+<p>A calculadora deve considerar parâmetros e fórmulas para determinar o preço final que serão passados de acordo com o roteiro definido para cada equipe.</p>
 
 <h3>Entregáveis:</h3>
-<p>Um arquivo de código-fonte contendo o HTML, CSS e JavaScript necessários para implementar a calculadora no nosso site.
-Instruções detalhadas sobre como integrar a calculadora ao nosso site (documentação).
-Suporte e assistência durante o processo de integração e teste.
-
+<ol>
+<li>Um arquivo de código-fonte contendo o HTML, CSS e JavaScript necessários para implementar a calculadora no nosso site.</li>
+<li>Instruções detalhadas sobre como integrar a calculadora ao nosso site (documentação).</li>
+<li>Suporte e assistência durante o processo de integração e teste.</li>
+</ol>
+  
 <h3>Prazo:</h3>
-<p>A calculadora deve ser desenvolvida e entregue em um prazo de 3 semanas a partir da data de aprovação deste briefing.
-
+<p>A calculadora deve ser desenvolvida e entregue em um prazo de 3 semanas a partir da data de aprovação deste briefing.</p>
+  <br>
 
 <h2>MÓDULO I - Fotografia Publicitária</h2>
-<p>Calculadora para serviço de fotografia publicitária, considerando as horas de cobertura e os diferentes tipos de sessões:
+<p>Calculadora para serviço de fotografia publicitária, considerando as horas de cobertura e os diferentes tipos de sessões:</p>
 
-<p>Defina os preços base por hora para cada tipo de sessão:
+<p>Defina os preços base por hora para cada tipo de sessão:</p>
 
 a. Evento: $X por hora
 b. Sessão fotográfica externa (natureza): $Y por hora
 c. Sessão fotográfica em estúdio: $Z por hora
 
-<p>Determine o número de horas de cobertura necessárias para cada tipo de sessão:
+<p>Determine o número de horas de cobertura necessárias para cada tipo de sessão:</p>
 
 a. Horas de cobertura de evento: H_e
 b. Horas de cobertura de sessão fotográfica externa: H_n
 c. Horas de cobertura de sessão fotográfica em estúdio: H_s
 
-<p>Calcule o custo total para cada tipo de sessão:
+<p>Calcule o custo total para cada tipo de sessão:</p>
 
 a. Custo total para evento: C_e = X * H_e
 b. Custo total para sessão fotográfica externa: C_n = Y * H_n
 c. Custo total para sessão fotográfica em estúdio: C_s = Z * H_s
 
-<p>Calcule o preço final somando os custos totais de cada tipo de sessão:
+<p>Calcule o preço final somando os custos totais de cada tipo de sessão:</p>
 
 Preço final = C_e + C_n + C_s
 
-Exemplo: Se um cliente deseja reservar uma sessão de fotografia publicitária com 2 horas de cobertura de evento ($100 por hora), 1 hora de sessão fotográfica externa ($150 por hora) e 3 horas de sessão fotográfica em estúdio ($200 por hora), o preço final seria calculado da seguinte maneira:
+<p>Exemplo: Se um cliente deseja reservar uma sessão de fotografia publicitária com 2 horas de cobertura de evento ($100 por hora), 1 hora de sessão fotográfica externa ($150 por hora) e 3 horas de sessão fotográfica em estúdio ($200 por hora), o preço final seria calculado da seguinte maneira:</p>
 
 Custo total para evento: 2 * $100 = $200
 Custo total para sessão fotográfica externa: 1 * $150 = $150
 Custo total para sessão fotográfica em estúdio: 3 * $200 = $600
 
-Preço final = $200 + $150 + $600 = $950
+<p>Preço final = $200 + $150 + $600 = $950</p>
 
-As funções devem permitir ajustes nos valores, sem causar erros no código, ou seja, trate cada valor como uma variável e divida o código em funções simplificadas.
+<p>As funções devem permitir ajustes nos valores, sem causar erros no código, ou seja, trate cada valor como uma variável e divida o código em funções simplificadas.</p>
 
 SPRINT_01
 
