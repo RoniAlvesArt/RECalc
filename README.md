@@ -5,44 +5,44 @@
 <p>Desenvolver uma calculadora de preços interativa e fácil de usar para o site, permitindo que os clientes potenciais calculem o custo estimado dos serviços oferecidos.</p>
 
 <h3>Requisitos:</h3>
-A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.
+<p>A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.
 Utilize a paleta de cores e fontes compatíveis para garantir consistência visual.
 A calculadora deve ser facilmente integrável ao site, utilizando tecnologias como HTML, CSS, JavaScript e PHP (vamos ter uma base).
 
 <h3>Parâmetros e cálculos:</h3>
-A calculadora deve considerar parâmetros e fórmulas para determinar o preço final que serão passados de acordo com o roteiro definido para cada equipe.
+<p>A calculadora deve considerar parâmetros e fórmulas para determinar o preço final que serão passados de acordo com o roteiro definido para cada equipe.
 
 <h3>Entregáveis:</h3>
-Um arquivo de código-fonte contendo o HTML, CSS e JavaScript necessários para implementar a calculadora no nosso site.
+<p>Um arquivo de código-fonte contendo o HTML, CSS e JavaScript necessários para implementar a calculadora no nosso site.
 Instruções detalhadas sobre como integrar a calculadora ao nosso site (documentação).
 Suporte e assistência durante o processo de integração e teste.
 
 <h3>Prazo:</h3>
-A calculadora deve ser desenvolvida e entregue em um prazo de 3 semanas a partir da data de aprovação deste briefing.
+<p>A calculadora deve ser desenvolvida e entregue em um prazo de 3 semanas a partir da data de aprovação deste briefing.
 
 
 <h2>MÓDULO I - Fotografia Publicitária</h2>
-Calculadora para serviço de fotografia publicitária, considerando as horas de cobertura e os diferentes tipos de sessões:
+<p>Calculadora para serviço de fotografia publicitária, considerando as horas de cobertura e os diferentes tipos de sessões:
 
-Defina os preços base por hora para cada tipo de sessão:
+<p>Defina os preços base por hora para cada tipo de sessão:
 
 a. Evento: $X por hora
 b. Sessão fotográfica externa (natureza): $Y por hora
 c. Sessão fotográfica em estúdio: $Z por hora
 
-Determine o número de horas de cobertura necessárias para cada tipo de sessão:
+<p>Determine o número de horas de cobertura necessárias para cada tipo de sessão:
 
 a. Horas de cobertura de evento: H_e
 b. Horas de cobertura de sessão fotográfica externa: H_n
 c. Horas de cobertura de sessão fotográfica em estúdio: H_s
 
-Calcule o custo total para cada tipo de sessão:
+<p>Calcule o custo total para cada tipo de sessão:
 
 a. Custo total para evento: C_e = X * H_e
 b. Custo total para sessão fotográfica externa: C_n = Y * H_n
 c. Custo total para sessão fotográfica em estúdio: C_s = Z * H_s
 
-Calcule o preço final somando os custos totais de cada tipo de sessão:
+<p>Calcule o preço final somando os custos totais de cada tipo de sessão:
 
 Preço final = C_e + C_n + C_s
 
@@ -58,9 +58,10 @@ As funções devem permitir ajustes nos valores, sem causar erros no código, ou
 
 SPRINT_01
 
-Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);
-Estabelecer as variáveis que influenciam o preço (horas de trabalho, tipo de serviço, número de câmeras, diária do profissional, hora do profissional, prazo, duração, etc.)
-Criar a lógica de programação para cada funcionalidade de forma individual, por funções;
-desenvolvimento na linguagem definida.
+<ul><li>Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);</li>
+<li>Estabelecer as variáveis que influenciam o preço (horas de trabalho, tipo de serviço, número de câmeras, diária do profissional, hora do profissional, prazo, duração, etc.)</li>
+<li>Criar a lógica de programação para cada funcionalidade de forma individual, por funções;
+  desenvolvimento na linguagem definida.</li>
+  </ul>
 
 
