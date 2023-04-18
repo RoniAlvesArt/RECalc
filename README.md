@@ -27,8 +27,9 @@
 
 <h2>MÓDULO I - Fotografia Publicitária</h2>
 <p>Calculadora para serviço de fotografia publicitária, considerando as horas de cobertura e os diferentes tipos de sessões:</p>
-
-<p>Defina os preços base por hora para cada tipo de sessão:</p>
+<ul>
+ 
+  <li><p>Defina os preços base por hora para cada tipo de sessão:</p></li>
 <ol>
 <li>a. Evento: $X por hora</li>
 <li>b. Sessão fotográfica externa (natureza): $Y por hora</li>
@@ -57,11 +58,10 @@
 <li>Custo total para sessão fotográfica externa: 1 * $150 = $150</li>
 <li>Custo total para sessão fotográfica em estúdio: 3 * $200 = $600</li>
   </ol>
-
+<ul>
 <p>Preço final = $200 + $150 + $600 = $950</p>
 
 <p>As funções devem permitir ajustes nos valores, sem causar erros no código, ou seja, trate cada valor como uma variável e divida o código em funções simplificadas.</p>
-
 <h2>SPRINT_01</h2>
 
 <ul><li>Identificar os tipos de serviços oferecidos (fotografia publicitária, produção audiovisual, edição de vídeo, desenvolvimento de sites e apps, assessoria e consultoria);</li>
