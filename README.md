@@ -9,9 +9,9 @@ A intenção do programa é tornar o processo de precificação 2000x mais rápi
 
 <ul>
 <h2>Funcionalidades importantes</h2>
-  <li>Otimizar o processo de precificação</li>
+  <li>Otimizar o processo de precificação;</li>
   <br>
-<li>Dashboard de inclusão dos custos da empresa e adição desses custos no cálculo de precificação, também com opção de definição da margem de lucro e taxas extras</li>
+<li>Dashboard de inclusão dos custos da empresa e adição desses custos no cálculo de precificação, também com opção de definição da margem de lucro e taxas extras;</li>
   <br>
 </ul>
 
