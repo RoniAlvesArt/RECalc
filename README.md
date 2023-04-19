@@ -7,6 +7,14 @@
 A intenção do software é acelerar o tempo que uma produtora gasta para liberar os orçamentos, padronizar os valores e permitir que pessoas com menos experiência consigam orçar os serviços, de acordo valores pré-calculados e definidos, considerando dados importantes: como os custos fixos da produtora, custos com equipamento (levando em conta sua vida útil/durabilidade), comissões, taxas de urgência, etc. A intenção é que também possa ser gerado um PDF com todos os dados do orçamento, após vistoria e aprovação de um profissional.<br>
 A intenção do programa é tornar o processo de precificação 2000x mais rápido (o que antes levava uma semana, agora pode ser feito em 3 minutos) e menos burocrático, aumentando o índice de aprovação e a acertividade no valor dos orçamentos.</p>
 
+<ul>
+<h2>Funcionalidades importantes</h2>
+  <li>Otimizar o processo de precificação</li>
+  <br>
+<li>Dashboard de inclusão dos custos da empresa e adição desses custos no cálculo de precificação, também com opção de definição da margem de lucro e taxas extras</li>
+  <br>
+</ul>
+
 <h3>Requisitos:</h3>
 <ol>
 <li>A calculadora deve ser responsiva e compatível com dispositivos móveis e desktop.</li>
